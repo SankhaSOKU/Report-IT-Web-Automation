@@ -17,7 +17,7 @@ ${pgeLogo}                   (//img[@class="cmp-image__image"])
 TC01-Verify the header logo
     Open ReportITPortal
     VerifyElement            ${pgeLogo}
-
+    #test validaiton
 
 
 TC02-Validate header links
